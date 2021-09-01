@@ -1,1 +1,1 @@
-CurtMenu.github.io
+curtsapp.github.io
